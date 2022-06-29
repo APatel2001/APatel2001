@@ -3,7 +3,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=APatel2001&layout=compact)
 - 📫 How to reach me: avidpatel1@gmail.com
 - Pronouns: He/Him/His
-- ⚡ Fun fact: I am a really big car enthusiast
+- ⚡ Fun fact: I am a really big car enthusiast and I love trying new cusines food
+- I’m currently at Audible as an SDE Intern
 
 <!--
 **APatel2001/APatel2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
