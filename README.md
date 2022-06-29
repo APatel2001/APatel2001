@@ -4,7 +4,7 @@
 - 📫 How to reach me: avidpatel1@gmail.com
 - Pronouns: He/Him/His
 - ⚡ Fun fact: I am a really big car enthusiast and I love trying new cusines food
-- I’m currently at Audible as an SDE Intern
+- 🚀 I’m currently working at Audible as an SDE Intern
 
 <!--
 **APatel2001/APatel2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
