@@ -4,7 +4,6 @@
 - Pronouns: He/Him/His
 - 📫 How to reach me: avidpatel1@gmail.com
 - ⚡ Fun fact: I am a really big car enthusiast and I love trying new cusines food
-- 📺 My favorite TV show is Silicon Valley
 - 🚀 I’m currently working at Audible as an SDE Intern
 
 <!--
