@@ -3,7 +3,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=APatel2001&layout=compact)
 - Pronouns: He/Him/His
 - 📫 How to reach me: avidpatel1@gmail.com
-- ⚡ Fun fact: I am a really big car enthusiast and I love trying new cusines food
+- ⚡ Fun fact: I am a really big car enthusiast and I love trying new cusines food. I also really enjoy the outdoors!
 - 🚀 I’m currently working at Audible as an SDE Intern
 
 <!--
